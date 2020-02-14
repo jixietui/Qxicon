@@ -18,7 +18,6 @@ DOMAIN,msg.umengcloud.com
 # > Custom
 DOMAIN-SUFFIX,maxmind.com
 DOMAIN,translate.google.cn
-DOMAIN,apps.apple.com
 DOMAIN-SUFFIX,ddrk.me
 DOMAIN-SUFFIX,fenggoudy.com
 DOMAIN-SUFFIX,dililitv.com
