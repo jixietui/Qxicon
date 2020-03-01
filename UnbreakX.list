@@ -1,0 +1,53 @@
+# Unbreak
+# > General
+USER-AGENT,coffeecorp*,DIRECT
+USER-AGENT,restaurant-mobile*,DIRECT
+DOMAIN,app.adjust.com,DIRECT
+# > Google
+DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
+DOMAIN,dl.google.com,DIRECT
+DOMAIN,mtalk.google.com,DIRECT
+# > Tencent
+DOMAIN,livew.l.qq.com,DIRECT
+DOMAIN,vd.l.qq.com,DIRECT
+# > Strava
+DOMAIN,analytics.strava.com,DIRECT
+# > Umeng
+DOMAIN,msg.umeng.com,DIRECT
+DOMAIN,msg.umengcloud.com,DIRECT
+# > Custom
+DOMAIN-SUFFIX,maxmind.com,DIRECT
+DOMAIN,translate.google.cn,DIRECT
+DOMAIN-SUFFIX,ddrk.me,DIRECT
+DOMAIN-SUFFIX,fenggoudy.com,DIRECT
+DOMAIN-SUFFIX,dililitv.com,DIRECT
+DOMAIN-SUFFIX,mac-torrents.io,DIRECT
+DOMAIN-SUFFIX,lekesi.co,DIRECT
+DOMAIN-SUFFIX,luxtech.best,DIRECT
+DOMAIN,cache.baiducontent.com,DIRECT
+DOMAIN-SUFFIX,bitwarden.com,DIRECT
+DOMAIN-SUFFIX,bitwarden.net,DIRECT
+DOMAIN-SUFFIX,cloudflare.com,DIRECT
+DOMAIN-SUFFIX,freetrial.store,DIRECT
+DOMAIN-SUFFIX,sixyao.top,DIRECT
+DOMAIN-SUFFIX,dxnf.xyz,DIRECT
+DOMAIN-SUFFIX,xianshiyouhui.com,DIRECT
+DOMAIN-SUFFIX,xianhuo.org,DIRECT
+DOMAIN-SUFFIX,zuizhimai.com,DIRECT
+DOMAIN-SUFFIX,yunpanjingling.com,DIRECT
+DOMAIN-SUFFIX,423down.com,DIRECT
+DOMAIN-SUFFIX,hrtsea.com,DIRECT
+DOMAIN-SUFFIX,mpyit.com,DIRECT
+DOMAIN-SUFFIX,ypojie.com,DIRECT
+DOMAIN-SUFFIX,wuhaozhan.net,DIRECT
+DOMAIN-SUFFIX,dygang.com,DIRECT
+DOMAIN-SUFFIX,dygangs.com,DIRECT
+DOMAIN-SUFFIX,66vod.net,DIRECT
+DOMAIN-SUFFIX,hao6v.com,DIRECT
+DOMAIN-SUFFIX,apache.org,DIRECT
+DOMAIN-SUFFIX,biqudu.net,DIRECT
+DOMAIN-SUFFIX,xbiquge.la,DIRECT
+DOMAIN-SUFFIX,cn163.net,DIRECT
+DOMAIN-SUFFIX,asus.com,DIRECT
+DOMAIN-SUFFIX,imgchr.com,DIRECT
+DOMAIN-SUFFIX,ax1x.com,DIRECT
