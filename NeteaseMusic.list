@@ -1,5 +1,4 @@
 # Unlock Netease Music
-DOMAIN,api.iplay.163.com,UnNetease
 DOMAIN,apm3.music.163.com,UnNetease
 DOMAIN,apm.music.163.com,UnNetease
 DOMAIN,interface3.music.163.com,UnNetease
@@ -10,8 +9,6 @@ IP-CIDR,45.254.48.1/32,UnNetease
 IP-CIDR,47.100.127.239/32,UnNetease
 IP-CIDR,59.111.160.195/32,UnNetease
 IP-CIDR,59.111.160.197/32,UnNetease
-IP-CIDR,59.111.181.35/32,UnNetease
-IP-CIDR,59.111.181.38/32,UnNetease
 IP-CIDR,59.111.181.60/32,UnNetease
 IP-CIDR,101.71.154.241/32,UnNetease
 IP-CIDR,103.126.92.132/32,UnNetease
