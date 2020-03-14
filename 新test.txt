@@ -1,0 +1,2 @@
+shadowsocks = no3317835796.internetworld.cloud:1402,method=chacha20,password=wzoUWAr1,ssr-protocol=auth_aes128_md5,ssr-protocol-param=9502:ugMfUT,obfs=tls1.2_ticket_auth,obfs-host=bing.com,tag=🇭🇰 V402U-1x-香港CN2-NF
+shadowsocks = no9958356489.internetworld.cloud:1403,method=chacha20,password=wzoUWAr1,ssr-protocol=auth_aes128_md5,ssr-protocol-param=9502:ugMfUT,obfs=tls1.2_ticket_auth,obfs-host=bing.com,tag=🇭🇰 V403U-1x-香港CN2-NF
