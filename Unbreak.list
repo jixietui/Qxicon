@@ -92,9 +92,6 @@ DOMAIN-SUFFIX,yammerusercontent.com
 # > Custom
 DOMAIN-SUFFIX,maxmind.com
 DOMAIN,translate.google.cn
-DOMAIN-SUFFIX,ddrk.me
-DOMAIN-SUFFIX,fenggoudy.com
-DOMAIN-SUFFIX,dililitv.com
 DOMAIN-SUFFIX,mac-torrents.io
 DOMAIN-SUFFIX,lekesi.co
 DOMAIN-SUFFIX,luxtech.best
@@ -128,4 +125,6 @@ DOMAIN-SUFFIX,ax1x.com
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,unrealengine.com
 DOMAIN-SUFFIX,baidupcs.com
+DOMAIN-SUFFIX,lanzou.com
+DOMAIN-SUFFIX,vdo.ai
 DOMAIN-SUFFIX,gravatar.com
