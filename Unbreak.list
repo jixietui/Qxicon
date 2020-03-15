@@ -16,7 +16,6 @@ DOMAIN,analytics.strava.com
 DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
 # > Microsoft Services
-DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,microsoft
 DOMAIN-SUFFIX,aadrm.com
 DOMAIN-SUFFIX,acompli.com
@@ -60,7 +59,6 @@ DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,officeppe.net
 DOMAIN-SUFFIX,omniroot.com
-DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,onenote.com
 DOMAIN-SUFFIX,onenote.net
 DOMAIN-SUFFIX,onestore.ms
@@ -69,7 +67,6 @@ DOMAIN-SUFFIX,outlookmobile.com
 DOMAIN-SUFFIX,phonefactor.net
 DOMAIN-SUFFIX,public-trust.com
 DOMAIN-SUFFIX,sfbassets.com
-DOMAIN-SUFFIX,sfx.ms
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,sharepointonline.com
 DOMAIN-SUFFIX,skype.com
