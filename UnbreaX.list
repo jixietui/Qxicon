@@ -92,9 +92,6 @@ DOMAIN-SUFFIX,yammerusercontent.com,DIRECT
 # > Custom
 DOMAIN-SUFFIX,maxmind.com,DIRECT
 DOMAIN,translate.google.cn,DIRECT
-DOMAIN-SUFFIX,ddrk.me,DIRECT
-DOMAIN-SUFFIX,fenggoudy.com,DIRECT
-DOMAIN-SUFFIX,dililitv.com,DIRECT
 DOMAIN-SUFFIX,mac-torrents.io,DIRECT
 DOMAIN-SUFFIX,lekesi.co,DIRECT
 DOMAIN-SUFFIX,luxtech.best,DIRECT
@@ -129,4 +126,6 @@ DOMAIN-SUFFIX,live.com,DIRECT
 DOMAIN-SUFFIX,epicgames.com,DIRECT
 DOMAIN-SUFFIX,unrealengine.com,DIRECT
 DOMAIN-SUFFIX,baidupcs.com,DIRECT
+DOMAIN-SUFFIX,lanzou.com,DIRECT
+DOMAIN-SUFFIX,vdo.ai,DIRECT
 DOMAIN-SUFFIX,gravatar.com,DIRECT
