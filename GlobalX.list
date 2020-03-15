@@ -578,3 +578,6 @@ DOMAIN-SUFFIX,speedpan.com,PROXY
 DOMAIN-SUFFIX,speedpan.net,PROXY
 DOMAIN-SUFFIX,yandex.net,PROXY
 DOMAIN-SUFFIX,yastatic.net,PROXY
+DOMAIN-SUFFIX,redditstatic.com,PROXY
+DOMAIN-SUFFIX,redd.it,PROXY
+DOMAIN-SUFFIX,notepad-plus-plus.org,PROXY
