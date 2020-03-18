@@ -72,7 +72,7 @@ DOMAIN-SUFFIX,sway-cdn.com,PROXY
 DOMAIN-SUFFIX,sway-extensions.com,PROXY
 DOMAIN-SUFFIX,sway.com,PROXY
 DOMAIN-SUFFIX,trafficmanager.net,PROXY
-DOMAIN-SUFFIX,uservoice.com
+DOMAIN-SUFFIX,uservoice.com,PROXY
 DOMAIN-SUFFIX,virtualearth.net,PROXY
 DOMAIN-SUFFIX,visualstudio.com,PROXY
 DOMAIN-SUFFIX,windows-ppe.net,PROXY
