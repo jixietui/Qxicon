@@ -660,3 +660,6 @@ DOMAIN-SUFFIX,intercomcdn.com,PROXY
 DOMAIN-SUFFIX,segment.com,PROXY
 DOMAIN-SUFFIX,segment.io,PROXY
 DOMAIN-SUFFIX,amplitude.com,PROXY
+DOMAIN-SUFFIX,optimizely.com,PROXY
+DOMAIN-SUFFIX,wistia.com,PROXY
+DOMAIN-SUFFIX,onetrust.com,PROXY
