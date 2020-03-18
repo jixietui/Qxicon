@@ -13,7 +13,6 @@ DOMAIN-KEYWORD,blogspot,PROXY
 # > Microsoft
 DOMAIN-SUFFIX,onedrive.live.com,PROXY
 DOMAIN-SUFFIX,xboxlive.com,PROXY
-DOMAIN-KEYWORD,microsoft,PROXY
 DOMAIN-SUFFIX,aadrm.com,PROXY
 DOMAIN-SUFFIX,acompli.com,PROXY
 DOMAIN-SUFFIX,acompli.net,PROXY
@@ -77,10 +76,7 @@ DOMAIN-SUFFIX,uservoice.com
 DOMAIN-SUFFIX,virtualearth.net,PROXY
 DOMAIN-SUFFIX,visualstudio.com,PROXY
 DOMAIN-SUFFIX,windows-ppe.net,PROXY
-DOMAIN-SUFFIX,windows.com,PROXY
-DOMAIN-SUFFIX,windows.net,PROXY
 DOMAIN-SUFFIX,windowsazure.com,PROXY
-DOMAIN-SUFFIX,windowsupdate.com,PROXY
 DOMAIN-SUFFIX,wunderlist.com,PROXY
 DOMAIN-SUFFIX,xboxlive.com,PROXY
 DOMAIN-SUFFIX,yammer.com,PROXY
