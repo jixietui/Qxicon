@@ -1,5 +1,4 @@
 shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com, fast-open=false, udp-relay=false, tag=Unlock1
 http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=Unlock2
 http=taron.top:100, fast-open=false, udp-relay=false, tag=Unlock3
-http=47.96.134.135:22,fast-open=false,udp-relay=false,tag=Unlock4
 http=95.179.198.172:19980,fast-open=false,udp-relay=false,tag=Unlock5
