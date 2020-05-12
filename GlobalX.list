@@ -363,6 +363,7 @@ DOMAIN-SUFFIX,readmoo.com,PROXY
 DOMAIN-SUFFIX,redbubble.com,PROXY
 DOMAIN-SUFFIX,reddit.com,PROXY
 DOMAIN-SUFFIX,redditmedia.com,PROXY
+DOMAIN-SUFFIX,redditstatic.com,PROXY
 DOMAIN-SUFFIX,resilio.com,PROXY
 DOMAIN-SUFFIX,reuters.com,PROXY
 DOMAIN-SUFFIX,reutersmedia.net,PROXY
@@ -666,7 +667,6 @@ DOMAIN-SUFFIX,speedpan.com,PROXY
 DOMAIN-SUFFIX,speedpan.net,PROXY
 DOMAIN-SUFFIX,yandex.net,PROXY
 DOMAIN-SUFFIX,yastatic.net,PROXY
-DOMAIN-SUFFIX,redditstatic.com,PROXY
 DOMAIN-SUFFIX,redd.it,PROXY
 DOMAIN-SUFFIX,notepad-plus-plus.org,PROXY
 DOMAIN-SUFFIX,git.io,PROXY
