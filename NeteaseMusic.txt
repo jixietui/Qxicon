@@ -1,6 +1,9 @@
-shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_gt5i, fast-open=false, udp-relay=false, tag=Unlock1
+http=207.148.98.161.ipssh.net:1248,fast-open=false,udp-relay=false,tag=Unlock1
 http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=Unlock2
 http=taron.top:100, fast-open=false, udp-relay=false, tag=Unlock3
 http=aimer.one:2333, fast-open=false, udp-relay=false, tag=Unlock4
+http=120.55.164.155:19980,fast-open=false,udp-relay=false,tag=Unlock5
+http=47.96.134.135:22,fast-open=false,udp-relay=false,tag=Unlock6
+http=95.179.198.172:19980,overtls=false,fast-open=false,udp-relay=false,tag=Unlock7
 trojan=alicloud1.chunyuan.monster:443, password=900e35a7, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=SG1 
 trojan=alicloud2.chunyuan.monster:443, password=68b329da, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=SG2
