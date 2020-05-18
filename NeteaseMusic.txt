@@ -2,5 +2,3 @@ http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=Unlock2
 http=taron.top:100, fast-open=false, udp-relay=false, tag=Unlock3
 http=aimer.one:2333, fast-open=false, udp-relay=false, tag=Unlock4
 http=47.96.134.135:22,fast-open=false,udp-relay=false,tag=Unlock6
-trojan=alicloud1.chunyuan.monster:443, password=900e35a7, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=SG1 
-trojan=alicloud2.chunyuan.monster:443, password=68b329da, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=SG2
