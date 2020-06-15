@@ -1,4 +1,4 @@
 http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=Unlock2
 http=taron.top:100, fast-open=false, udp-relay=false, tag=Unlock3
 http=aimer.one:2333, fast-open=false, udp-relay=false, tag=Unlock4
-http=47.96.134.135:22,fast-open=false,udp-relay=false,tag=Unlock6
+http=music.griouges.cn:39000,over-tls=false,fast-open=false,udp-relay=false,tag=Unlock6
