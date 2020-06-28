@@ -501,12 +501,14 @@ DOMAIN-SUFFIX,zb.com,PROXY
 DOMAIN-SUFFIX,zello.com,PROXY
 DOMAIN-SUFFIX,zeronet.io,PROXY
 DOMAIN-SUFFIX,zoom.us,PROXY
+
 DOMAIN,cc.tvbs.com.tw,PROXY
 DOMAIN,ocsp.int-x3.letsencrypt.org,PROXY
 DOMAIN,payments-jp.amazon.com,PROXY
 DOMAIN,s3-ap-northeast-1.amazonaws.com,PROXY
 DOMAIN,s3-ap-southeast-2.amazonaws.com,PROXY
 DOMAIN,search.avira.com,PROXY
+
 DOMAIN-KEYWORD,github,PROXY
 DOMAIN-KEYWORD,jav,PROXY
 DOMAIN-KEYWORD,pinterest,PROXY
@@ -617,19 +619,23 @@ DOMAIN-SUFFIX,zattoo.com,PROXY
 USER-AGENT,Roam*,PROXY
 
 # (The Most Popular Sites)
-# > Apple
-# >> TestFlight
-DOMAIN,testflight.apple.com,PROXY
-# >> Apple URL Shortener
+# ---(Apple)---
+# > Apple URL Shortener
 DOMAIN-SUFFIX,appsto.re,PROXY
-# >> iBooks Store download
+# > iBooks Store download
 DOMAIN,books.itunes.apple.com,PROXY
-# >> iTunes Store Moveis Trailers
+# > App Store Preview
+DOMAIN,apps.apple.com,PROXY
+DOMAIN,itunes.apple.com,PROXY
+# > iTunes Store Moveis Trailers
 DOMAIN,hls.itunes.apple.com,PROXY
-# >> Spotlight
+# > Spotlight
 DOMAIN,api-glb-sea.smoot.apple.com,PROXY
-# >> Dictionary
+# > Look Up
 DOMAIN,lookup-api.apple.com,PROXY
+DOMAIN-SUFFIX,smoot.apple.com,PROXY
+# > Apple Music Web
+DOMAIN,beta.music.apple.com,PROXY
 # > Google
 DOMAIN-SUFFIX,abc.xyz,PROXY
 DOMAIN-SUFFIX,android.com,PROXY
@@ -748,8 +754,6 @@ DOMAIN-SUFFIX,x-art.com,PROXY
 DOMAIN-SUFFIX,yimg.com,PROXY
 DOMAIN,api.steampowered.com,PROXY
 DOMAIN,store.steampowered.com,PROXY
-DOMAIN-SUFFIX,duyaoss.com,PROXY
-DOMAIN-SUFFIX,limbopro.xyz,PROXY
 DOMAIN-SUFFIX,merlinblog.xyz,PROXY
 DOMAIN-SUFFIX,ssrpass.com,PROXY
 DOMAIN-SUFFIX,fastssr.cc,PROXY
@@ -805,4 +809,3 @@ DOMAIN-SUFFIX,thcdn.com,PROXY
 DOMAIN-SUFFIX,snapchat.com,PROXY
 DOMAIN-SUFFIX,namesilo.com,PROXY
 DOMAIN-SUFFIX,namecheap.com,PROXY
-DOMAIN-SUFFIX,rsshub.app,PROXY
