@@ -629,6 +629,9 @@ DOMAIN,lookup-api.apple.com,PROXY
 DOMAIN-SUFFIX,smoot.apple.com,PROXY
 # > Apple Music Web
 DOMAIN,beta.music.apple.com,PROXY
+# > TestFlight
+DOMAIN,beta.apple.com,PROXY
+DOMAIN,testflight.apple.com,PROXY
 # > Google
 DOMAIN-SUFFIX,abc.xyz,PROXY
 DOMAIN-SUFFIX,android.com,PROXY
