@@ -19,7 +19,7 @@ hostname = usapi.tongbu.com
 
 var obj = JSON.parse($response.body);
 
-if ($request.url.indexOf(/v.html) != -1){
+if ($request.url.indexOf(/v.html/) != -1){
 obj = {
   "Code": 0,
   "Data": {
