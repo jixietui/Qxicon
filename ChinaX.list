@@ -50,6 +50,7 @@ DOMAIN-SUFFIX,hdslb.com,DIRECT
 DOMAIN-SUFFIX,blizzard.com,DIRECT
 DOMAIN-SUFFIX,battle.net,DIRECT
 DOMAIN,blzddist1-a.akamaihd.net,DIRECT
+DOMAIN,blznav.akamaized.net,DIRECT
 # > ByteDance
 DOMAIN-SUFFIX,feiliao.com,DIRECT
 DOMAIN-SUFFIX,pstatp.com,DIRECT
