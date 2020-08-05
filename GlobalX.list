@@ -636,10 +636,8 @@ DOMAIN-SUFFIX,storage.live.com,PROXY
 DOMAIN-SUFFIX,storage.msn.com,PROXY
 DOMAIN,oneclient.sfx.ms,PROXY
 # > Other
-DOMAIN,api.steampowered.com,PROXY
 DOMAIN,girlimg.epio.app,PROXY
 DOMAIN,mm.155.pw,PROXY
-DOMAIN,store.steampowered.com,PROXY
 DOMAIN-SUFFIX,0rz.tw,PROXY
 DOMAIN-SUFFIX,114514.best,PROXY
 DOMAIN-SUFFIX,4bluestones.biz,PROXY
