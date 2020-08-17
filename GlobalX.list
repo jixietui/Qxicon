@@ -263,6 +263,7 @@ DOMAIN-SUFFIX,getlantern.org,PROXY
 DOMAIN-SUFFIX,getsync.com,PROXY
 DOMAIN-SUFFIX,github.com,PROXY
 DOMAIN-SUFFIX,github.io,PROXY
+DOMAIN-SUFFIX,githubassets.com,PROXY
 DOMAIN-SUFFIX,githubusercontent.com,PROXY
 DOMAIN-SUFFIX,globalvoices.org,PROXY
 DOMAIN-SUFFIX,goo.ne.jp,PROXY
