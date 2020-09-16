@@ -674,6 +674,8 @@ DOMAIN-SUFFIX,cusu.hk,PROXY
 DOMAIN-SUFFIX,discord.gg,PROXY
 DOMAIN-SUFFIX,discuss.com.hk,PROXY
 DOMAIN-SUFFIX,diskgirl.com,PROXY
+DOMAIN-SUFFIX,dubox.com,PROXY
+DOMAIN-SUFFIX,duboxcdn.com,PROXY
 DOMAIN-SUFFIX,duolingo.cn,PROXY
 DOMAIN-SUFFIX,edditstatic.com,PROXY
 DOMAIN-SUFFIX,fastssr.cc,PROXY
@@ -767,5 +769,5 @@ DOMAIN-SUFFIX,cloudcone.com.cn,PROXY
 # DOMAIN-SUFFIX,evernote.com,PROXY
 DOMAIN-SUFFIX,inkbunny.net,PROXY
 DOMAIN-SUFFIX,metapix.net,PROXY
-# DOMAIN-SUFFIX,s3.amazonaws.com,PROXY
+DOMAIN-SUFFIX,s3.amazonaws.com,PROXY
 DOMAIN-SUFFIX,zaobao.com.sg,PROXY
