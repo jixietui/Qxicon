@@ -679,7 +679,6 @@ DOMAIN-SUFFIX,dubox.com,PROXY
 DOMAIN-SUFFIX,duboxcdn.com,PROXY
 DOMAIN-SUFFIX,duolingo.cn,PROXY
 DOMAIN-SUFFIX,edditstatic.com,PROXY
-DOMAIN-SUFFIX,fastssr.cc,PROXY
 DOMAIN-SUFFIX,flickriver.com,PROXY
 DOMAIN-SUFFIX,flycloud.io,PROXY
 DOMAIN-SUFFIX,focustaiwan.tw,PROXY
@@ -704,7 +703,7 @@ DOMAIN-SUFFIX,iphone4hongkong.com,PROXY
 DOMAIN-SUFFIX,iphonetaiwan.org,PROXY
 DOMAIN-SUFFIX,iptvbin.com,PROXY
 DOMAIN-SUFFIX,iwantoneofthose.com,PROXY
-DOMAIN-SUFFIX,jiyou.cloud,PROXY
+DOMAIN-SUFFIX,jsdcloud.xyz,PROXY
 DOMAIN-SUFFIX,linksalpha.com,PROXY
 DOMAIN-SUFFIX,loggly.com,PROXY
 DOMAIN-SUFFIX,lolicon.vip,PROXY
@@ -739,7 +738,6 @@ DOMAIN-SUFFIX,sparknotes.com,PROXY
 DOMAIN-SUFFIX,speedpan.com,PROXY
 DOMAIN-SUFFIX,speedpan.net,PROXY
 DOMAIN-SUFFIX,streetvoice.com,PROXY
-DOMAIN-SUFFIX,sub88.xyz,PROXY
 DOMAIN-SUFFIX,supanx.com,PROXY
 DOMAIN-SUFFIX,supertop.co,PROXY
 DOMAIN-SUFFIX,suying666.net,PROXY
