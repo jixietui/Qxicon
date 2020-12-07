@@ -4,7 +4,7 @@
     "task": [
         "0 9 ? * FRI https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/epic.js, tag=EPIC限免, img-url=https://raw.githubusercontent.com/jixietui/Qxicon/master/EPIC.png, enabled=true",
         "11 8 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js, tag=京东抽奖机, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=false",
-        "59 59 23 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_blueCoin.js, tag=京小超兑换, enabled=true",
+        "59 59 23 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_blueCoin.js, tag=京小超兑换, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
         "50 7-19/3 * * * jd_plantBean.js, tag=种豆得豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzd.png, enabled=true",
         "30 7-19/3 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_joy.js, tag=JD宠汪汪, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
         "25 7,19 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_superMarket.js, tag=京小超, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxc.png, enabled=true",
