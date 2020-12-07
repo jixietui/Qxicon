@@ -1,0 +1,25 @@
+{
+    "name": "QX Scripts Task",
+    "description": "Task Gallery",
+    "task": [
+        "0 9 ? * FRI https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/epic.js, tag=EPIC限免, img-url=https://raw.githubusercontent.com/jixietui/Qxicon/master/EPIC.png, enabled=true",
+        "11 8 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js, tag=京东抽奖机, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/jd.png, enabled=false",
+        "59 59 23 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_blueCoin.js, tag=京小超兑换, enabled=true",
+        "50 7-19/3 * * * jd_plantBean.js, tag=种豆得豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzd.png, enabled=true",
+        "30 7-19/3 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_joy.js, tag=JD宠汪汪, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
+        "25 7,19 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_superMarket.js, tag=京小超, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxc.png, enabled=true",
+        "15 7 * * * jd_fruit.js, tag=JD水果, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdnc.png, enabled=true",
+        "12 7 * * * NobyDa/JD-DailyBonus/JD_DailyBonus.js, tag=JD京豆, img-url=https://raw.githubusercontent.com/jixietui/Qxicon/master/JD.png, enabled=true",
+        "3 7 * * * chavyleung/neteasenews/neteasenews.js, tag=网易新闻, img-url=https://raw.githubusercontent.com/jixietui/Qxicon/master/neteasenews.jpg, enabled=false",
+        "4 7 * * * chavyleung/flyertea/flyertea.js, tag=飞客茶馆, img-url=https://raw.githubusercontent.com/jixietui/Qxicon/master/flyertea.jpg, enabled=true",
+        "5 7 * * * chavyleung/videoqq/videoqq.js, tag=腾讯视频, img-url=https://raw.githubusercontent.com/jixietui/Qxicon/master/txsp.jpg, enabled=true",
+        "6 7 * * * chavyleung/smzdm/quanx/smzdm.js, tag=什么值得买, img-url=https://raw.githubusercontent.com/jixietui/Qxicon/master/smzdm.jpg, enabled=true",
+        "7 7 * * * chavyleung/10010/10010.js, tag=联通, img-url=https://raw.githubusercontent.com/jixietui/Qxicon/master/unicom.jpg, enabled=false",
+        "7 7 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/DiDi/DiDi_new.js, tag=滴滴出行, img-url=https://raw.githubusercontent.com/jixietui/Qxicon/master/didi.jpg, enabled=true",
+        "8 7 * * * elemSign.js, tag=饿了么签到, img-url=https://raw.githubusercontent.com/jixietui/Qxicon/master/eleme.jpg, enabled=false",
+        "9 7 * * * chavyleung/suning/suning.js, tag=苏宁易购, img-url=https://raw.githubusercontent.com/jixietui/Qxicon/master/suning.jpg, enabled=false",
+        "10 7 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/wanda/wanda.js, tag=万达电影, img-url=https://raw.githubusercontent.com/jixietui/Qxicon/master/wanda.jpg, enabled=true",
+        "11 7 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/elem/elemCheckIn.js, tag=饿了么打卡, img-url=https://raw.githubusercontent.com/jixietui/Qxicon/master/eleme.jpg, enabled=false",
+        "9 9 * * * testflight.js, tag=TestFlight, img-url=https://raw.githubusercontent.com/jixietui/Qxicon/master/TestFlight.jpg, enabled=true"
+    ]
+}
