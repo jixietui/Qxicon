@@ -10,9 +10,10 @@ DOMAIN,a248.e.akamai.net,PROXY
 DOMAIN,a771.dscq.akamai.net,PROXY
 # > Apple
 DOMAIN,testflight.apple.com,PROXY
-# > Cryptocurrency
+# > Crypto
 DOMAIN-SUFFIX,aex.com,PROXY
 DOMAIN-SUFFIX,bibox.com,PROXY
+DOMAIN-SUFFIX,binance.cc,PROXY
 DOMAIN-SUFFIX,binance.com,PROXY
 DOMAIN-SUFFIX,bitcointalk.org,PROXY
 DOMAIN-SUFFIX,bitfinex.com,PROXY
@@ -20,6 +21,7 @@ DOMAIN-SUFFIX,bitmex.com,PROXY
 DOMAIN-SUFFIX,gate.io,PROXY
 DOMAIN-SUFFIX,huobi.com,PROXY
 DOMAIN-SUFFIX,okex.com,PROXY
+DOMAIN-SUFFIX,uniswap.org,PROXY
 DOMAIN-SUFFIX,zb.com,PROXY
 # > Discord
 DOMAIN-SUFFIX,discord.com,PROXY
@@ -464,6 +466,7 @@ DOMAIN-SUFFIX,steemitwallet.com,PROXY
 DOMAIN-SUFFIX,straitstimes.com,PROXY
 DOMAIN-SUFFIX,streamable.com,PROXY
 DOMAIN-SUFFIX,streema.com,PROXY
+DOMAIN-SUFFIX,substack.com,PROXY
 DOMAIN-SUFFIX,t66y.com,PROXY
 DOMAIN-SUFFIX,tapatalk.com,PROXY
 DOMAIN-SUFFIX,teco-hk.org,PROXY
@@ -517,6 +520,7 @@ DOMAIN-SUFFIX,xn--90wwvt03e.com,PROXY
 DOMAIN-SUFFIX,xn--i2ru8q2qg.com,PROXY
 DOMAIN-SUFFIX,xnxx.com,PROXY
 DOMAIN-SUFFIX,xvideos.com,PROXY
+DOMAIN-SUFFIX,yadi.sk,PROXY
 DOMAIN-SUFFIX,yahoo.com,PROXY
 DOMAIN-SUFFIX,yandex.ru,PROXY
 DOMAIN-SUFFIX,ycombinator.com,PROXY
@@ -527,6 +531,7 @@ DOMAIN-SUFFIX,you-get.org,PROXY
 DOMAIN-SUFFIX,zaobao.com,PROXY
 DOMAIN-SUFFIX,zello.com,PROXY
 DOMAIN-SUFFIX,zeronet.io,PROXY
+DOMAIN-SUFFIX,z-lib.org,PROXY
 DOMAIN-SUFFIX,zoom.us,PROXY
 
 DOMAIN,cc.tvbs.com.tw,PROXY
@@ -598,20 +603,17 @@ DOMAIN-SUFFIX,twitter.jp,PROXY
 
 # (Region-Restricted Access Denied)
 # ---(Apple)---
-# > Apple URL Shortener
 DOMAIN-SUFFIX,appsto.re,PROXY
-# > iBooks Store download
 DOMAIN,books.itunes.apple.com,PROXY
-# > App Store Preview
+DOMAIN,api-glb-sea.smoot.apple.com,PROXY
+DOMAIN,beta.music.apple.com,PROXY
+DOMAIN,tv.apple.com,PROXY
+# > App Store Web Preview
 DOMAIN,apps.apple.com,PROXY
 DOMAIN,itunes.apple.com,PROXY
-# > Spotlight
-DOMAIN,api-glb-sea.smoot.apple.com,PROXY
 # > Look Up
 DOMAIN-SUFFIX,smoot.apple.com,PROXY
 DOMAIN,lookup-api.apple.com,PROXY
-# > Apple Music Web
-DOMAIN,beta.music.apple.com,PROXY
 # > Microsoft
 # >> Microsoft OneDrive
 DOMAIN-SUFFIX,1drv.com,PROXY
@@ -722,6 +724,7 @@ DOMAIN-SUFFIX,speedpan.net,PROXY
 DOMAIN-SUFFIX,streetvoice.com,PROXY
 DOMAIN-SUFFIX,supanx.com,PROXY
 DOMAIN-SUFFIX,supertop.co,PROXY
+DOMAIN-SUFFIX,sushi.com,PROXY
 DOMAIN-SUFFIX,suying666.net,PROXY
 DOMAIN-SUFFIX,taotuhome.com,PROXY
 DOMAIN-SUFFIX,thcdn.com,PROXY
@@ -742,6 +745,7 @@ DOMAIN-SUFFIX,yandex.net,PROXY
 DOMAIN-SUFFIX,yastatic.net,PROXY
 DOMAIN-SUFFIX,yimg.com,PROXY
 DOMAIN-SUFFIX,yun993.net,PROXY
+# URL-REGEX,http:\/\/img\.sina\.com\/usweibo\/
 
 # (Network Jitter)
 # > Apple
@@ -762,4 +766,3 @@ DOMAIN-SUFFIX,metapix.net,PROXY
 DOMAIN-SUFFIX,s3.amazonaws.com,PROXY
 DOMAIN-SUFFIX,zaobao.com.sg,PROXY
 DOMAIN,international-gfe.download.nvidia.com,PROXY
-DOMAIN,store-images.s-microsoft.com,PROXY
