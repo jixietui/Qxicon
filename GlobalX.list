@@ -614,6 +614,10 @@ DOMAIN,itunes.apple.com,PROXY
 # > Look Up
 DOMAIN-SUFFIX,smoot.apple.com,PROXY
 DOMAIN,lookup-api.apple.com,PROXY
+# ------
+# Google
+DOMAIN-SUFFIX,go.dev,PROXY
+DOMAIN-SUFFIX,golang.org,PROXY
 # > Microsoft
 # >> Microsoft OneDrive
 DOMAIN-SUFFIX,1drv.com,PROXY
