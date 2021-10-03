@@ -628,7 +628,7 @@ DOMAIN-SUFFIX,onedrive.com,PROXY
 DOMAIN-SUFFIX,storage.live.com,PROXY
 DOMAIN-SUFFIX,storage.msn.com,PROXY
 DOMAIN,oneclient.sfx.ms,PROXY
-# > Other
+# > Others
 DOMAIN,girlimg.epio.app,PROXY
 DOMAIN,mm.155.pw,PROXY
 DOMAIN-SUFFIX,0rz.tw,PROXY
@@ -638,6 +638,7 @@ DOMAIN-SUFFIX,589669.xyz,PROXY
 DOMAIN-SUFFIX,94imm.com,PROXY
 DOMAIN-SUFFIX,9bis.net,PROXY
 DOMAIN-SUFFIX,adsl.cloud,PROXY
+DOMAIN-SUFFIX,aicoin.com,PROXY
 DOMAIN-SUFFIX,allconnected.co,PROXY
 DOMAIN-SUFFIX,amplitude.com,PROXY
 DOMAIN-SUFFIX,aol.com,PROXY
