@@ -227,6 +227,7 @@ DOMAIN-SUFFIX,on2.com,PROXY
 DOMAIN-SUFFIX,recaptcha.net,PROXY
 DOMAIN-SUFFIX,schema.org,PROXY
 DOMAIN-SUFFIX,tensorflow.org,PROXY
+DOMAIN-SUFFIX,tenor.com,PROXY
 DOMAIN-SUFFIX,tfhub.dev,PROXY
 DOMAIN-SUFFIX,tiltbrush.com,PROXY
 DOMAIN-SUFFIX,waymo.com,PROXY
@@ -338,6 +339,7 @@ DOMAIN-SUFFIX,aka.ms,PROXY
 DOMAIN-SUFFIX,github.blog,PROXY
 DOMAIN-SUFFIX,github.com,PROXY
 DOMAIN-SUFFIX,github.io,PROXY
+DOMAIN-SUFFIX,githubassets.com,PROXY
 DOMAIN-SUFFIX,githubusercontent.com,PROXY
 DOMAIN-SUFFIX,onedrive.live.com,PROXY
 DOMAIN-SUFFIX,streaming.mediaservices.windows.net,PROXY
@@ -436,6 +438,7 @@ DOMAIN-SUFFIX,engadget.com,PROXY
 DOMAIN-SUFFIX,ifixit.com,PROXY
 DOMAIN-SUFFIX,terabox.com,PROXY
 DOMAIN-SUFFIX,zaobao.com.sg,PROXY
+DOMAIN,addons.mozilla.org,PROXY
 DOMAIN,wego.here.com,PROXY
 # > Alphabet
 DOMAIN-SUFFIX,go.dev,PROXY
@@ -562,7 +565,8 @@ DOMAIN-SUFFIX,optimizely.com,PROXY
 DOMAIN-SUFFIX,paper-io.com,PROXY
 DOMAIN-SUFFIX,poolin.com,PROXY
 DOMAIN-SUFFIX,poolin.fi,PROXY
-DOMAIN-SUFFIX,poolin.me,PROXY
+DOMAIN-SUFFIX,poolin.me,PROX
+DOMAIN-SUFFIX,poolin.one,PROXYY
 DOMAIN-SUFFIX,readdle.com,PROXY
 DOMAIN-SUFFIX,segment.com,PROXY
 DOMAIN-SUFFIX,segment.io,PROXY
