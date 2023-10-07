@@ -1,8 +1,7 @@
 # China Area Network
 DOMAIN-SUFFIX,flyert.com,DIRECT
 DOMAIN-SUFFIX,gandi.net,DIRECT
-DOMAIN-SUFFIX,cm.steampowered.com,DIRECT
-DOMAIN,api.steampowered.com,DIRECT
+DOMAIN-SUFFIX,snapdrop.net,DIRECT
 DOMAIN,download.jetbrains.com,DIRECT
 DOMAIN,origin-a.akamaihd.ne,DIRECT
 # ---(Microsoft)---
@@ -24,6 +23,9 @@ DOMAIN-SUFFIX,paypal.com,DIRECT
 DOMAIN-SUFFIX,paypal.me,DIRECT
 DOMAIN-SUFFIX,paypal-mktg.com,DIRECT
 DOMAIN-SUFFIX,paypalobjects.com,DIRECT
+# > Steam
+DOMAIN-SUFFIX,cm.steampowered.com,DIRECT
+DOMAIN-SUFFIX,steamserver.net,DIRECT
 # > Tencent
 IP-CIDR,182.254.116.0/24,DIRECT
 IP-CIDR,203.205.238.0/23,DIRECT
@@ -164,7 +166,6 @@ DOMAIN-SUFFIX,scomper.me,DIRECT
 DOMAIN-SUFFIX,shouqianba.com,DIRECT
 DOMAIN-SUFFIX,sm.ms,DIRECT
 DOMAIN-SUFFIX,smzdm.com,DIRECT
-DOMAIN-SUFFIX,snapdrop.net,DIRECT
 DOMAIN-SUFFIX,snwx.com,DIRECT
 DOMAIN-SUFFIX,s-reader.com,DIRECT
 DOMAIN-SUFFIX,sspai.com,DIRECT
@@ -190,7 +191,6 @@ DOMAIN-SUFFIX,zhihuishu.com,DIRECT
 DOMAIN-SUFFIX,zhimg.com,DIRECT
 DOMAIN-SUFFIX,zhuihd.com,DIRECT
 
-DOMAIN,download.jetbrains.com,DIRECT
 DOMAIN,images-cn.ssl-images-amazon.com,DIRECT
 
 # Custom
