@@ -1,31 +1,44 @@
 # Unbreak
 # > General
-USER-AGENT,archero*
-USER-AGENT,coffeecorp*
-USER-AGENT,Coffee%20Corp*
-USER-AGENT,restaurant-mobile*
 DOMAIN,app.adjust.com
+DOMAIN,app.appsflyer.com
+DOMAIN,bdtj.tagtic.cn
 # > Alibaba
 DOMAIN,log.mmstat.com
 DOMAIN,sycm.mmstat.com
 # > Google
-DOMAIN-SUFFIX,googletraveladservices.com
+DOMAIN-SUFFIX,blog.google // Google Blog
+DOMAIN-SUFFIX,googletraveladservices.com // Google Flights
+DOMAIN,clientservices.googleapis.com
+DOMAIN,update.googleapis.com
 DOMAIN,dl.google.com
+DOMAIN,dl.l.google.com
+DOMAIN,update.googleapis.com
+# >> Firebase Cloud Messaging
 DOMAIN,mtalk.google.com
+DOMAIN,alt1-mtalk.google.com
+DOMAIN,alt2-mtalk.google.com
+DOMAIN,alt3-mtalk.google.com
+DOMAIN,alt4-mtalk.google.com
+DOMAIN,alt5-mtalk.google.com
+DOMAIN,alt6-mtalk.google.com
+DOMAIN,alt7-mtalk.google.com
+DOMAIN,alt8-mtalk.google.com
+# >> Paramount+
+# DOMAIN,pubads.g.doubleclick.net
 # > Tencent
+DOMAIN,fairplay.l.qq.com
 DOMAIN,livew.l.qq.com
 DOMAIN,vd.l.qq.com
+DOMAIN,vi.l.qq.com
 # > Strava
 DOMAIN,analytics.strava.com
 # > Umeng
 DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
-# > Bing
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,bing.net
 # > Custom
 DOMAIN,cache.baiducontent.com
-DOMAIN,translate.google.cn
+DOMAIN-SUFFIX,108pc.com
 DOMAIN-SUFFIX,1090ys.com
 DOMAIN-SUFFIX,1090ys1.com
 DOMAIN-SUFFIX,423down.com
@@ -50,6 +63,7 @@ DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,hao6v.com
 DOMAIN-SUFFIX,hrtsea.com
 DOMAIN-SUFFIX,imgchr.com
+DOMAIN-SUFFIX,imgse.com
 DOMAIN-SUFFIX,lanzou.com
 DOMAIN-SUFFIX,lekesi.co
 DOMAIN-SUFFIX,luxtech.best
