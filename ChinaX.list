@@ -1,25 +1,20 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-03-21 15:50:44
+# UPDATED: 2024-04-01 02:10:53
+# TOTAL: 3751
 HOST,analytics.strava.com,DIRECT
 HOST,blzddist1-a.akamaihd.net,DIRECT
 HOST,cdn.angruo.com,DIRECT
 HOST,client.amplifi.com,DIRECT
 HOST,download.jetbrains.com,DIRECT
-HOST,download.microsoft.com,DIRECT
 HOST,images-cn.ssl-images-amazon.com,DIRECT
-HOST,ip.bjango.com,DIRECT
 HOST,ip.istatmenus.app,DIRECT
 HOST,kc.kexinshe.com,DIRECT
-HOST,ntservicepack.microsoft.com,DIRECT
 HOST,origin-a.akamaihd.ne,DIRECT
 HOST,origin-a.akamaihd.net,DIRECT
-HOST,outlook.office365.com,DIRECT
 HOST,sms.imagetasks.com,DIRECT
-HOST,smtp-mail.outlook.com,DIRECT
-HOST,smtp.office365.com,DIRECT
-HOST,wustat.windows.com,DIRECT
+HOST,steamcommunity-a.akamaihd.net,DIRECT
 HOST,www.libvideo.com,DIRECT
 HOST,www.yxssp.com,DIRECT
 HOST-SUFFIX,00cdn.com,DIRECT
@@ -3839,5 +3834,3 @@ DOMAIN-SUFFIX,xianshiyouhui.com,DIRECT
 DOMAIN-SUFFIX,ypojie.com,DIRECT
 DOMAIN-SUFFIX,zuizhimai.com,DIRECT
 DOMAIN-SUFFIX,zz123.com,DIRECT
-
-GEOIP,CN,DIRECT
