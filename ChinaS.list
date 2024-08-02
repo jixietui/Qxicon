@@ -1,8 +1,8 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-03-26 02:11:43
-# TOTAL: 3750
+# UPDATED: 2024-07-03 16:16:18
+# TOTAL: 3751
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
@@ -15,6 +15,7 @@ DOMAIN,origin-a.akamaihd.ne
 DOMAIN,origin-a.akamaihd.net
 DOMAIN,sms.imagetasks.com
 DOMAIN,steamcommunity-a.akamaihd.net
+DOMAIN,weixin.com
 DOMAIN,www.libvideo.com
 DOMAIN,www.yxssp.com
 DOMAIN-SUFFIX,00cdn.com
@@ -606,7 +607,6 @@ DOMAIN-SUFFIX,bocim.com
 DOMAIN-SUFFIX,bohejiasuqi.com
 DOMAIN-SUFFIX,bojianger.com
 DOMAIN-SUFFIX,bokecc.com
-DOMAIN-SUFFIX,booking.com
 DOMAIN-SUFFIX,boosj.com
 DOMAIN-SUFFIX,bootcdn.net
 DOMAIN-SUFFIX,bootcss.com
@@ -1152,6 +1152,7 @@ DOMAIN-SUFFIX,discuz.org
 DOMAIN-SUFFIX,diyiyou.com
 DOMAIN-SUFFIX,dj99.com
 DOMAIN-SUFFIX,dl-vip.pcfaster.baidu.co.th
+DOMAIN-SUFFIX,dler.cloud
 DOMAIN-SUFFIX,dlgslb.net
 DOMAIN-SUFFIX,dlnel.com
 DOMAIN-SUFFIX,dlnel.org
@@ -1783,6 +1784,7 @@ DOMAIN-SUFFIX,ip.la
 DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,ipanda.com
 DOMAIN-SUFFIX,ipanda.net
+DOMAIN-SUFFIX,ipapark.com
 DOMAIN-SUFFIX,ipinyou.com
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,ipplus360.com
@@ -3297,7 +3299,6 @@ DOMAIN-SUFFIX,weilaiyunxiao.com
 DOMAIN-SUFFIX,weiphone.com
 DOMAIN-SUFFIX,weiphone.net
 DOMAIN-SUFFIX,weixinbridge.com
-DOMAIN-SUFFIX,weixing.com
 DOMAIN-SUFFIX,weiyangx.com
 DOMAIN-SUFFIX,weiyun.com
 DOMAIN-SUFFIX,welltrend-edu.com
@@ -3701,27 +3702,27 @@ DOMAIN-KEYWORD,beplay
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,taobao
-IP-CIDR,1.255.62.0/24,no-resolve
-IP-CIDR,101.32.104.0/21,no-resolve
-IP-CIDR,101.32.118.0/23,no-resolve
-IP-CIDR,101.32.96.0/20,no-resolve
-IP-CIDR,119.28.28.28/32,no-resolve
-IP-CIDR,120.195.181.180/32,no-resolve
-IP-CIDR,129.226.0.0/16,no-resolve
-IP-CIDR,182.254.116.0/24,no-resolve
-IP-CIDR,183.128.0.0/11,no-resolve
-IP-CIDR,183.131.48.0/20,no-resolve
-IP-CIDR,185.188.32.0/22,no-resolve
-IP-CIDR,185.188.32.0/24,no-resolve
-IP-CIDR,185.188.33.0/24,no-resolve
-IP-CIDR,185.188.34.0/24,no-resolve
-IP-CIDR,185.188.35.0/24,no-resolve
-IP-CIDR,203.205.238.0/23,no-resolve
-IP-CIDR,203.205.254.0/23,no-resolve
-IP-CIDR6,2a0b:b580::/48,no-resolve
-IP-CIDR6,2a0b:b581::/48,no-resolve
-IP-CIDR6,2a0b:b582::/48,no-resolve
-IP-CIDR6,2a0b:b583::/48,no-resolve
+IP-CIDR,1.255.62.0/24
+IP-CIDR,101.32.104.0/21
+IP-CIDR,101.32.118.0/23
+IP-CIDR,101.32.96.0/20
+IP-CIDR,119.28.28.28/32
+IP-CIDR,120.195.181.180/32
+IP-CIDR,129.226.0.0/16
+IP-CIDR,182.254.116.0/24
+IP-CIDR,183.128.0.0/11
+IP-CIDR,183.131.48.0/20
+IP-CIDR,185.188.32.0/22
+IP-CIDR,185.188.32.0/24
+IP-CIDR,185.188.33.0/24
+IP-CIDR,185.188.34.0/24
+IP-CIDR,185.188.35.0/24
+IP-CIDR,203.205.238.0/23
+IP-CIDR,203.205.254.0/23
+IP-CIDR6,2a0b:b580::/48
+IP-CIDR6,2a0b:b581::/48
+IP-CIDR6,2a0b:b582::/48
+IP-CIDR6,2a0b:b583::/48
 USER-AGENT,%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C*
 USER-AGENT,%E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*
 USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
@@ -3755,11 +3756,9 @@ USER-AGENT,hide*
 USER-AGENT,ting_en
 
 # Custom
-DOMAIN,cache.baiducontent.com
 DOMAIN,esign.yyyue.xyz
 DOMAIN-KEYWORD,1090ys
 DOMAIN-SUFFIX,108pc.com
-DOMAIN-SUFFIX,1090ys1.com
 DOMAIN-SUFFIX,138vcd.com
 DOMAIN-SUFFIX,423down.com
 DOMAIN-SUFFIX,80lp.com
@@ -3805,7 +3804,6 @@ DOMAIN-SUFFIX,kkju.cc
 DOMAIN-SUFFIX,lekesi.co
 DOMAIN-SUFFIX,ljmovie.com
 DOMAIN-SUFFIX,libvio.fun
-DOMAIN-SUFFIX,luxtech.best
 DOMAIN-SUFFIX,mac-torrents.com
 DOMAIN-SUFFIX,mac-torrents.io
 DOMAIN-SUFFIX,maxmind.com
@@ -3813,11 +3811,14 @@ DOMAIN-SUFFIX,meijux.com
 DOMAIN-SUFFIX,mpyit.com
 DOMAIN-SUFFIX,mtime.com
 DOMAIN-SUFFIX,nazhumi.com
+DOMAIN-SUFFIX,ncat2.com
 DOMAIN-SUFFIX,nfyingshi.com
 DOMAIN-SUFFIX,nike.cn
 DOMAIN-SUFFIX,nike.com
 DOMAIN-SUFFIX,nikecdn.com
 DOMAIN-SUFFIX,nikecloud.com
+DOMAIN-SUFFIX,rexuexia.com
+DOMAIN-SUFFIX,ruciwan.com
 DOMAIN-SUFFIX,susuifa.com
 DOMAIN-SUFFIX,subaibaiys.com
 DOMAIN-SUFFIX,tanhuos.com
@@ -3827,8 +3828,11 @@ DOMAIN-SUFFIX,ubisoft.com
 DOMAIN-SUFFIX,unrealengine.com
 DOMAIN-SUFFIX,urlencode.org
 DOMAIN-SUFFIX,vdo.ai
+DOMAIN-SUFFIX,wsgmzt.com
+DOMAIN-SUFFIX,xianbao.fun
 DOMAIN-SUFFIX,xianhuo.org
 DOMAIN-SUFFIX,xianshiyouhui.com
 DOMAIN-SUFFIX,ypojie.com
+DOMAIN-SUFFIX,ywmmt.com
 DOMAIN-SUFFIX,zuizhimai.com
 DOMAIN-SUFFIX,zz123.com
