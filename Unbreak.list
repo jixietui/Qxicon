@@ -37,8 +37,6 @@ DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
 # > Custom
 DOMAIN,esign.yyyue.xyz
-DOMAIN-SUFFIX,108pc.com
-DOMAIN-SUFFIX,138vcd.com
 DOMAIN-SUFFIX,423down.com
 DOMAIN-SUFFIX,4d4y.com
 DOMAIN-SUFFIX,6v520.net
@@ -47,6 +45,7 @@ DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,asus.com
 DOMAIN-SUFFIX,ax1x.com
 DOMAIN-SUFFIX,bdys.me
+DOMAIN-SUFFIX,biaomei.vip
 DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,bitwarden.net
 DOMAIN-SUFFIX,centbrowser.net
