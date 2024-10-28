@@ -1,7 +1,8 @@
 # NAME: NetEaseMusic
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-02-25 16:03:46
+# UPDATED: 2024-07-03 16:16:37
+# TOTAL: 30
 HOST,netease.ugcvideoss.ourdvs.com,UnNetease
 HOST-SUFFIX,163yun.com,UnNetease
 HOST-SUFFIX,api.iplay.163.com,UnNetease
@@ -13,7 +14,7 @@ HOST-SUFFIX,music.163.com,UnNetease
 HOST-SUFFIX,music.163.com.163jiasu.com,UnNetease
 HOST-SUFFIX,yun-app.net,UnNetease
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,UnNetease
-USER-AGENT,UnNetease*,UnNetease
+USER-AGENT,NeteaseMusic*,UnNetease
 IP-CIDR,101.71.154.241/32,UnNetease
 IP-CIDR,103.126.92.132/31,UnNetease
 IP-CIDR,112.13.119.17/32,UnNetease
