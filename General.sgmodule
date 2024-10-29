@@ -1,3 +1,7 @@
+#!name=General
+#!desc=General rewrite & hostname
+#!author=unknown
+
 [URL Rewrite]
 # AbeamTV Unlock header
 ^https?:\/\/api\.[\w-]+\.abema-tv\.com\/v\d\/ip\/check - reject
