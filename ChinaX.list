@@ -1,8 +1,8 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-04 02:10:48
-# TOTAL: 3752
+# UPDATED: 2024-11-17 02:12:01
+# TOTAL: 3753
 HOST,analytics.strava.com,DIRECT
 HOST,blzddist1-a.akamaihd.net,DIRECT
 HOST,cdn.angruo.com,DIRECT
@@ -3554,6 +3554,7 @@ HOST-SUFFIX,yoyou.com,DIRECT
 HOST-SUFFIX,ypppt.com,DIRECT
 HOST-SUFFIX,yqb.com,DIRECT
 HOST-SUFFIX,yrz.name,DIRECT
+HOST-SUFFIX,ysepay.com,DIRECT
 HOST-SUFFIX,yslyhr.com,DIRECT
 HOST-SUFFIX,ysten.com,DIRECT
 HOST-SUFFIX,ytzq.com,DIRECT
