@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-11-17 02:12:01
+# UPDATED: 2025-03-13 02:13:45
 # TOTAL: 3753
 HOST,analytics.strava.com,DIRECT
 HOST,blzddist1-a.akamaihd.net,DIRECT
@@ -306,7 +306,6 @@ HOST-SUFFIX,acctdns.com,DIRECT
 HOST-SUFFIX,acctdns.net,DIRECT
 HOST-SUFFIX,acetaffy.club,DIRECT
 HOST-SUFFIX,acfun.tv,DIRECT
-HOST-SUFFIX,acg.rip,DIRECT
 HOST-SUFFIX,acg.tv,DIRECT
 HOST-SUFFIX,acgvideo.com,DIRECT
 HOST-SUFFIX,acm.org,DIRECT
@@ -611,6 +610,7 @@ HOST-SUFFIX,boosj.com,DIRECT
 HOST-SUFFIX,bootcdn.net,DIRECT
 HOST-SUFFIX,bootcss.com,DIRECT
 HOST-SUFFIX,bosera.com,DIRECT
+HOST-SUFFIX,bosszhipin.com,DIRECT
 HOST-SUFFIX,broadcasthe.net,DIRECT
 HOST-SUFFIX,browserleaks.com,DIRECT
 HOST-SUFFIX,bstatic.com,DIRECT
@@ -1560,6 +1560,7 @@ HOST-SUFFIX,heytapcs.com,DIRECT
 HOST-SUFFIX,heytapdownload.com,DIRECT
 HOST-SUFFIX,heytapimage.com,DIRECT
 HOST-SUFFIX,heytapmobi.com,DIRECT
+HOST-SUFFIX,heytea-co.com,DIRECT
 HOST-SUFFIX,heytea.com,DIRECT
 HOST-SUFFIX,hftfund.com,DIRECT
 HOST-SUFFIX,hhtravel.com,DIRECT
@@ -1790,7 +1791,6 @@ HOST-SUFFIX,ipip.net,DIRECT
 HOST-SUFFIX,ipplus360.com,DIRECT
 HOST-SUFFIX,iprdp.net,DIRECT
 HOST-SUFFIX,ipssh.net,DIRECT
-HOST-SUFFIX,ipv6-test.com,DIRECT
 HOST-SUFFIX,iq.com,DIRECT
 HOST-SUFFIX,iqiyi.com,DIRECT
 HOST-SUFFIX,iqiyipic.com,DIRECT
@@ -2212,6 +2212,8 @@ HOST-SUFFIX,lrts.me,DIRECT
 HOST-SUFFIX,lsplayer.com,DIRECT
 HOST-SUFFIX,lu.com,DIRECT
 HOST-SUFFIX,lucifr.com,DIRECT
+HOST-SUFFIX,luckincdn.com,DIRECT
+HOST-SUFFIX,luckincoffee.com,DIRECT
 HOST-SUFFIX,luckincoffeecdn.com,DIRECT
 HOST-SUFFIX,luckyair.net,DIRECT
 HOST-SUFFIX,ludashi.com,DIRECT
@@ -3031,8 +3033,6 @@ HOST-SUFFIX,tendis.net,DIRECT
 HOST-SUFFIX,tenpay.com,DIRECT
 HOST-SUFFIX,tenxcloud.com,DIRECT
 HOST-SUFFIX,test-cignacmb.com,DIRECT
-HOST-SUFFIX,test-ipv4.com,DIRECT
-HOST-SUFFIX,test-ipv6.com,DIRECT
 HOST-SUFFIX,testwaf.com,DIRECT
 HOST-SUFFIX,texasholdemcup.com,DIRECT
 HOST-SUFFIX,texasholdemcup.net,DIRECT
@@ -3756,7 +3756,6 @@ IP6-CIDR,2a0b:b580::/48,DIRECT
 IP6-CIDR,2a0b:b581::/48,DIRECT
 IP6-CIDR,2a0b:b582::/48,DIRECT
 IP6-CIDR,2a0b:b583::/48,DIRECT
-
 
 # Custom
 DOMAIN,esign.yyyue.xyz,DIRECT
