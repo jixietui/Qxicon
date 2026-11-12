@@ -36,12 +36,10 @@ DOMAIN,analytics.strava.com
 DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
 # > Custom
-DOMAIN,esign.yyyue.xyz
 DOMAIN-SUFFIX,423down.com
 DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,asus.com
 DOMAIN-SUFFIX,ax1x.com
-DOMAIN-SUFFIX,biaomei.vip
 DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,bitwarden.net
 DOMAIN-SUFFIX,centbrowser.net
@@ -49,9 +47,8 @@ DOMAIN-SUFFIX,dewu.com
 DOMAIN-SUFFIX,dygangs.net
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,gog.com
-DOMAIN-SUFFIX,gying.net
 DOMAIN-SUFFIX,hrtsea.com
-DOMAIN-SUFFIX,imgse.com
+DOMAIN-SUFFIX,imgchr.com
 DOMAIN-SUFFIX,kkys01.com
 DOMAIN-SUFFIX,ljmovie.com
 DOMAIN-SUFFIX,libvio.art
